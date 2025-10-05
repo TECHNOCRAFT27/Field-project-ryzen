@@ -1,0 +1,18 @@
+Task List: Virtual Lab Preparation
+
+Ved's Tasks:
+-------------
+- Research virtual lab platforms and tools
+- Set up initial project repository
+- Test lab modules for functionality and bugs
+
+Kash's Tasks:
+--------------
+- Design user interface mockups
+- Prepare documentation for setup instructions
+- Define lab modules and experiment topics
+- Develop backend logic for lab simulations
+
+-theory for experiment for simulations i want pdf
+-all media
+-all bsaic Design web html css
